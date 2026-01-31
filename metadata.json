@@ -1,0 +1,5 @@
+{
+  "name": "EcoPulse: IoT Smart Home Energy Monitor",
+  "description": "A high-fidelity dashboard for monitoring real-time power consumption of IoT devices, specifically optimized for smart light bulb tracking with AI-driven energy insights.",
+  "requestFramePermissions": []
+}
